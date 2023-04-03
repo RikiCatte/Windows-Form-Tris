@@ -1,0 +1,22 @@
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\bin\Debug\WinTrisCS_GUI.exe.config
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\bin\Debug\WinTrisCS_GUI.exe
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\bin\Debug\WinTrisCS_GUI.pdb
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.csproj.AssemblyReference.cache
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.frmMain.resources
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.Properties.Resources.resources
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.csproj.GenerateResource.cache
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.csproj.CoreCompileInputs.cache
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.exe
+C:\Users\ricca\Desktop\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.pdb
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\bin\Debug\WinTrisCS_GUI.exe.config
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\bin\Debug\WinTrisCS_GUI.exe
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\bin\Debug\WinTrisCS_GUI.pdb
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.csproj.AssemblyReference.cache
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.csproj.SuggestedBindingRedirects.cache
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.frmMain.resources
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.Properties.Resources.resources
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.csproj.GenerateResource.cache
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.csproj.CoreCompileInputs.cache
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.exe
+G:\Progetti VS\C#\WinTrisCS_GUI\WinTrisCS_GUI\obj\Debug\WinTrisCS_GUI.pdb
